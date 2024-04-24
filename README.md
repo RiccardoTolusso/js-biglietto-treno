@@ -31,6 +31,8 @@ Questo richiederà un minimo di ricerca.
 - creo una variabile prezzoBiglietto
 - prezzoBiglietto sarà uguale al prodotto tra desiredKilometers e kilometerPrice
 
-- controllo se l'utente ha meno di 18 anni e nel caso applico il prezzo youngPrice * prezzoBiglietto
+- controllo se l'utente ha un età minore o uguale a youngAge e nel caso applico il prezzo youngPrice * prezzoBiglietto
 
-- controllo se l'utente ha più di 
+- controllo se l'utente ha un età maggiore o uguale a elderAge se si applico il prezzo elderPrice * prezzoBiglietto
+
+- normalizzo l'output per fare in modo che il mio numero abbia al massimo 2 decimali
