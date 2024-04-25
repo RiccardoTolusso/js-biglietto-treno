@@ -36,3 +36,9 @@ Questo richiederà un minimo di ricerca.
 - controllo se l'utente ha un età maggiore o uguale a elderAge se si applico il prezzo elderPrice * prezzoBiglietto
 
 - normalizzo l'output per fare in modo che il mio numero abbia al massimo 2 decimali
+
+Anche se non strettamente necessario ho voluto validare gli input delll'utente e sfruttare la validazione dell'input per richiedere all'utente il valore da utilizzare fintanto che non fosse sufficientemente buono per i miei criteri di validazione (sono consapevole che il codice ha ancora alcune delle lacune di validazione e alcune parti grossolane)
+
+Una volta caricato il tutto ho aggiunto una funzione al pulsante acquista che dia una parvenza di funzionamento alla pagina
+
+
