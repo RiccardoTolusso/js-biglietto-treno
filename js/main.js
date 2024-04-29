@@ -1,3 +1,5 @@
+'use strict';
+
 // - definisco una cosante per il prezzo al kilometro (kilometerPrice) = 0.21
 const kilometerPrice = 0.21;
 // - definisco le costanti youngPrice = 0.8, youngAge = 17 e elderPrice = 0.6, elderAge = 66
